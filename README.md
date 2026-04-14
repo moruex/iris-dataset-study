@@ -46,16 +46,3 @@ Tüm modeller Iris veri setinde yüksek başarı göstermiştir. Veri setinin ba
 
 ---
 
-## 👤 Geliştirici
-
-Ad Soyad
-
----
-
-İstersen bunu bir tık daha “hoca etkilenir” seviyesine çıkarıp:
-
-* grafik eklenen kısım
-* görselleştirme bölümü
-* ya da repo yapısı
-
-şeklinde de düzenleyebilirim.
